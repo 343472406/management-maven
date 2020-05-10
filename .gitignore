@@ -1,4 +1,6 @@
 # Compiled class file
+management/target/
+rebel.xml
 *.class
 
 # Log file
